@@ -1,3 +1,6 @@
+# Disclaimer
+For the randos that stumble upon this, this is just some note taking I did when learning MatLab
+
 ## Summary
 Created a fully connected neural network that can learn a set of inputs and outputs using backpropagation
 
