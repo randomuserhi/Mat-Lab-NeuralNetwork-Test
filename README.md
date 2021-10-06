@@ -1,7 +1,3 @@
-[[ENGI1151 Computational Tools for Engineers and Scientists/Year 1/Practicals/Practicals]] [[lecture-01-intro.pdf#page=4]]
-
-# Report ( 05-10-2021 13-00 )
-( #MatLab ) \[ #MatLab-Scripting-Functions #MatLab-Matrices, #MatLab-Cells, #MatLab-Loops \]
 ## Summary
 Created a fully connected neural network that can learn a set of inputs and outputs using backpropagation
 
