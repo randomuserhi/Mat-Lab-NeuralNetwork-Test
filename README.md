@@ -60,7 +60,7 @@ networkWeightsLayersBias = {weights, layers, biases};
 function [output, network] = NeuralNetwork_FeedForward(network, input)
 ```
 This function takes in a `network` and calculates the output of the network for a given `input`
-- `input` is in the format of a 1xn matrix / vector
+- `input` is in the format of a `1 x n` matrix / vector
 
 #### Implementation
 ```matlab
